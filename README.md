@@ -21,7 +21,7 @@ Workflow: **copy → ai-clean → paste**
 
 ### macOS
 ```sh
-brew install TheAndruu/tap/ai-clean
+brew install Nabeel-Farooq/tap/ai-clean
 One-line install (macOS / Linux)
 curl -fsSL https://github.com/Nabeel-Farooq/ai_clean/releases/latest/download/ai-clean.tar.gz | sudo tar -xz -C /usr/local/bin ai-clean
 Usage
